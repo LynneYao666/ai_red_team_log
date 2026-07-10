@@ -1,7 +1,7 @@
 {
   "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
-  "github": {
-    "silent": true
-  }
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" }
+  ]
 }
