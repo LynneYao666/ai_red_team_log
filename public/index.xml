@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Red Team Log</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on AI Red Team Log</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prompt Injection: a working taxonomy</title>
+      <link>http://localhost:1313/notes/prompt-injection-taxonomy/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/prompt-injection-taxonomy/</guid>
+      <description>My own reference notes on the different flavors of prompt injection and where each shows up in real systems.</description>
+    </item>
+    <item>
+      <title>Vulnerable Agent Lab: attacking a tool-using LLM agent</title>
+      <link>http://localhost:1313/projects/vulnerable-agent-lab/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/vulnerable-agent-lab/</guid>
+      <description>Building a deliberately vulnerable LangChain agent with file and email tools, then attacking it with indirect prompt injection.</description>
+    </item>
+    <item>
+      <title>Week 1: OWASP LLM Top 10 and setting up a local sandbox</title>
+      <link>http://localhost:1313/learning-log/week-01-owasp-llm-top-10/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/learning-log/week-01-owasp-llm-top-10/</guid>
+      <description>Starting the AI red teaming track. Read through OWASP&amp;rsquo;s Top 10 for LLM Applications and set up a local LLM + RAG environment to test against.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hi-im-lynne&#34;&gt;Hi, I&amp;rsquo;m Lynne&lt;/h2&gt;
+&lt;p&gt;I work in AI infra and sales, and I&amp;rsquo;m currently pursuing the Cybersecurity specialization
+in Georgia Tech&amp;rsquo;s OMSCS program.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m transitioning toward &lt;strong&gt;AI Red Teaming&lt;/strong&gt; — evaluating the security of
+LLM-based systems, RAG pipelines, and agentic workflows through an attacker&amp;rsquo;s
+lens. This site documents that journey: weekly learning logs, hands-on
+projects, and technical notes.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;OMSCS coursework: Network Security (CS 6262), Information Security (CS 6035),
+Secure Computer Systems (CS 6238), Software Engineering (CS 6300)&lt;/li&gt;
+&lt;li&gt;Hands-on experience: Snort IDS rule development, penetration testing
+(Metasploit, John the Ripper, HTTP request smuggling), web security
+(XSS/CSRF/CORS), adversarial ML (PAYL-based evasion)&lt;/li&gt;
+&lt;li&gt;Currently learning: prompt injection, RAG pipeline security, AI red team
+tooling (Garak, PyRIT), Go&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;find-me&#34;&gt;Find me&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub:https://github.com/LynneYao666&lt;/li&gt;
+&lt;li&gt;LinkedIn:https://www.linkedin.com/in/lynne-y-520349185/&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:lyaolynne7@gmail.com&#34;&gt;lyaolynne7@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
